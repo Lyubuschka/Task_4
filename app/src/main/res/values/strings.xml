@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Практическая работа №8</string>
+    <string name="one_fragment">Первый фрагмент</string>
+    <string name="two_fragment">Второй фрагмент</string>
+    <string name="three_fragment">Третий фрагмент</string>
+    <string name="back">Предыдущий</string>
+    <string name="next">Следующий</string>
+</resources>
